@@ -1,2 +1,2 @@
 # Handwritten-Digit-Recognizer
-Recognizing MNIST Handwritten Digits using KNN
+Recognizing MNIST Handwritten Digits using KNN..
